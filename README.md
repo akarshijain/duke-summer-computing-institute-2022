@@ -1,1 +1,1 @@
-# summer-computing-institute-2022
+# Duke Summer Computing Institute 2022
